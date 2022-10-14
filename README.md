@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil! Sou José Plácido, e sou programador Back-End Jr. em formação!!
+## Olá, Sou José Plácido, e sou programador Back-End Jr. em formação!!
 <div align="center">
   <a href="https://github.com/Zeandrad">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Zeandrad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
